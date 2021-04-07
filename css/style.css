@@ -1,0 +1,7 @@
+[class*="col-"] {
+    text-align: center;
+}
+
+p {
+    position: calc(50% - 50%);
+}
